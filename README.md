@@ -1,7 +1,7 @@
 # Yangon-Bus-API
 
 ### Note
-Bus Routes Data are pulled from [Yangon Bus website](http://yangonbus.com/) 
+All Data are pulled from [Yangon Bus website](http://yangonbus.com/) 
 
 ### API End Points
  >* All buses https://ygnbus.herokuapp.com/api/bus/
