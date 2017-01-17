@@ -1,7 +1,7 @@
 # Yangon-Bus-API
 
 ### Note
-All Data are pulled from [Yangon Bus website](http://yangonbus.com/) 
+All Data are provided by [Yangon Bus website](http://yangonbus.com/) under the terms of the YRTA Open Data Licence version 1.0 [Yangon Bus website](http://data.yangonbus.com/license.html)
 
 ### API End Points
  >* All buses https://ygnbus.herokuapp.com/api/bus/
