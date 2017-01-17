@@ -1,12 +1,19 @@
 # Yangon-Bus-API
 
 ### Note
-All Data are provided by [Yangon Bus website](http://yangonbus.com/) under the terms of the YRTA Open Data Licence version 1.0 [Yangon Bus website](http://data.yangonbus.com/license.html)
+All Data are provided by [Yangon Bus website](http://yangonbus.com/) under the terms of the YRTA Open Data Licence version 1.0 [Yangon Bus website](http://data.yangonbus.com/license.html).
+
+This API is only for development pourpose.It's not ready for production.
 
 ### API End Points
  >* All buses https://ygnbus.herokuapp.com/api/bus/
  >* Each Bus https://ygnbus.herokuapp.com/api/bus/1 
  >* All Bus stops https://ygnbus.herokuapp.com/api/busstop 
+ 
+ 
+### Get API Key
+>* Login With GitHub https://ygnbus.herokuapp.com/login
+>*  Add API key in Authorization header of request.
 
 ### Here is complete json format for bus,bus route and bus stop
 	{
