@@ -3,6 +3,8 @@
 ### Note
 All Data are provided by [Yangon Bus website](http://yangonbus.com/) under the terms of the YRTA Open Data Licence version 1.0 [Yangon Bus website](http://data.yangonbus.com/license.html).
 
+Update data are avaliable (Bus no 62-81).Creating with special tool.This tool will be open soruce soon.
+
 This API is only for development pourpose.It's not ready for production.
 
 ### API End Points
